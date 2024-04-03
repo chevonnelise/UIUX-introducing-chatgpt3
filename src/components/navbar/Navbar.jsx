@@ -1,5 +1,6 @@
 import React from 'react';
 import {RiMenu3Line, RiCloseLin} from 'react-icons/ri';
+import logo from '../../assets/logo.svg';
 import './navbar.css';
 
 // BEM -> Block Element Modifier
