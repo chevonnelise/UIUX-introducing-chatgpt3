@@ -19,6 +19,7 @@ This project uses ReactJS and is a frontend development project.
 
 ## Deployment<br>
 Made mobile-responsive, users can choose to view on different screen sizes:
+[Live link](https://introducing-chatgpt3.netlify.app/)
 
 **Mobile (L size)**<br>
 ![mobile](./src/assets/mobile-view.png)<br>
@@ -32,3 +33,6 @@ Made mobile-responsive, users can choose to view on different screen sizes:
 ![laptop](./src/assets/laptop-view.png)<br>
 <br>
 
+## Acknowledgements
+- Adapted from tutorial guide by JSMastery.
+- Includes pictures from Freepik.
