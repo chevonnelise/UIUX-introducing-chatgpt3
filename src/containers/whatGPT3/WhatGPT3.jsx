@@ -4,7 +4,7 @@ import './whatGPT3.css';
 
 const WhatGPT3 = () => {
   return (
-    <div className="gpt3__whatgpt3 section__margin" id="whpt3">
+    <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
       <div className="gpt3__whatgpt3-features">
         <Feature title="What is GPT-3" text="ChatGPT-3, short for 'Chat Generative Pre-trained Transformer 3,' is an advanced natural language processing model developed by OpenAI. It is the third iteration of the GPT (Generative Pre-trained Transformer) series, following GPT and GPT-2. GPT-3 is trained on a massive dataset of diverse text from the internet, allowing it to generate human-like text and respond to prompts in a wide range of topics and styles."/>
       </div>
@@ -21,4 +21,4 @@ const WhatGPT3 = () => {
   )
 }
 
-export default WhatGPT3
+export default WhatGPT3;
