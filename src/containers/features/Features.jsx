@@ -4,20 +4,20 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly.',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'Versatile problem-solving capabilities',
+    text: 'GPT-3 can tackle a wide range of tasks, from coding to writing essays.'
   },
   {
-    title: 'Become the tended active',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'Enhanced productivity and efficiency',
+    text: 'It automates repetitive tasks, saving time and effort for users.'
   },
   {
-    title: 'Message or am nothing',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'Seamless natural language understanding',
+    text: 'It comprehends and generates human-like text, facilitating effective communication.'
   },
   {
-    title: 'Really bow law county',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'Diverse creative content generation',
+    text: 'GPT-3 generates varied and engaging content across different topics and styles.'
   },
 ];
 
